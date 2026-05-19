@@ -1,6 +1,6 @@
 # PRÀCTICA 3: WiFi i Bluetooth
 
-**Alumnes:** Martí Cabanes  
+**Alumne:** Martí Cabanes  
 ---
 
 ## Objectiu
